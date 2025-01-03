@@ -34,3 +34,7 @@
 .ct-subHeadLine-label {
     @apply uppercase mx-4 text-gray-500 font-medium text-[14px] text-center
 }
+
+.ct-button {
+    @apply text-center font-semibold uppercase tracking-wider py-4 px-8 cursor-pointer hover:bg-opacity-90 text-[14px]
+}
